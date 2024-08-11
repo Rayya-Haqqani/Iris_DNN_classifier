@@ -1,9 +1,9 @@
-Iris DNN Classifier
+**Iris DNN Classifier**
 
 This project implements a Deep Neural Network (DNN) classifier using TensorFlow and Keras to classify the Iris dataset. The model is trained on features such as Sepal Length, Sepal Width, Petal Length, and Petal Width to predict the species of iris flowers (Setosa, Versicolor, Virginica).
 
 
-Key Features:
+**Key Features:**
 
 Model Architecture: A DNN with 3 hidden layers using ReLU activation.
 
